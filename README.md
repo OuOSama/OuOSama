@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm OuOSama</h1>
-<h3 align="center">Hi im form Thailand, age 17</h3>
-
 
 <p align="left"></p>
 
