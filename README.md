@@ -20,8 +20,8 @@
 </table>
 
 <!-- Tools Section -->
-<h2 align="center">🛠 Tools</h2>
-<p align="center">
+<h2>🛠 Tools</h2>
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -39,9 +39,10 @@
   </a>
 </p>
 
+<br>
 <!-- Socials Section -->
-<h2 align="center">🌐 Socials</h2>
-<p align="center">
+<h2>🌐 Socials</h2>
+<p>
   <a href="https://discord.com/users/_ouosama_" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
