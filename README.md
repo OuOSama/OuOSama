@@ -86,4 +86,4 @@
     </picture>
   </a>
 </p>
-https://github.com/OuOSama/OuOSama/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/OuOSama/OuOSama/blob/output/github-contribution-grid-snake.gif)
