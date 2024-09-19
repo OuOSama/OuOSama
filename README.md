@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<p>
+<p align="center">
   <!-- GitHub Stats -->
   <a href="http://www.github.com/OuOSama">
     <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="30%" />
