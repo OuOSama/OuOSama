@@ -1,8 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OuOSama
-===============================================================================================================================
+<table align="center" border="0">
+  <tr>
+    <!-- Left Column: GitHub Stats and GitHub Streak Stats -->
+    <td width="50%" align="center">
+      <!-- GitHub Stats -->
+      <a href="http://www.github.com/OuOSama">
+        <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="80%" />
+      </a>
+      <br><br>
+      <!-- GitHub Streak Stats -->
+      <a href="http://www.github.com/OuOSama">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuOSama&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="80%" />
+      </a>
+    </td> 
+    <!-- Right Column: Top Languages -->
+    <td width="50%" align="center">
+      <!-- Top Languages -->
+      <a href="https://github.com/OuOSama">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuOSama&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Developer
----------
+OuOSama the Developer
+---------------------
 
 I've been learning to code for few, I started with HTML, but have really found a passion for backend development...
 
@@ -25,31 +46,6 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/_ouosama_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=61553926110628" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/OuOSama" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ouo-sama-227841328/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@ouosamacute" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/26359203/ouosama" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/OuO_Sama" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@OuOSamaCute" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-<b>My GitHub Stats</b>
-
-<table align="center" style="border: none;">
-  <tr>
-    <!-- Left Column: GitHub Stats and GitHub Streak Stats -->
-    <td width="50%" align="center" style="border: none;">
-      <!-- GitHub Stats -->
-      <a href="http://www.github.com/OuOSama">
-        <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="80%" />
-      </a>
-      <br><br>
-      <!-- GitHub Streak Stats -->
-      <a href="http://www.github.com/OuOSama">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuOSama&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="80%" />
-      </a>
-    </td> 
-    <!-- Right Column: Top Languages -->
-    <td width="50%" align="center" style="border: none;">
-      <!-- Top Languages -->
-      <a href="https://github.com/OuOSama">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuOSama&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
-      </a>
-    </td>
-  </tr>
 
 
 
