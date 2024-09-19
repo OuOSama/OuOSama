@@ -1,22 +1,26 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<!-- GitHub Stats Table -->
-<table align="center">
-  <thead>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 100%; border-radius: 20px;" />
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-      <td>
-        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OuOSama&count_private=true&theme=react&border_radius=20" alt="streak stats" style="width: 100%; border-radius: 20px;" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OuOSama&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 100%; border-radius: 20px;" />
-      </td>
-  </tbody>
-</table>
+<div style="background-image: url('https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 20px;">
+  <!-- GitHub Stats Table -->
+  <table align="center" width="80%" style="background: rgba(255, 255, 255, 0.8); border-radius: 20px;">
+    <thead>
+      <tr>
+        <td colspan="2">
+          <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 100%; border-radius: 20px;" />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OuOSama&count_private=true&theme=react&border_radius=20" alt="streak stats" style="width: 100%; border-radius: 20px;" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OuOSama&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 100%; border-radius: 20px;" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!-- Tools Section -->
 <h2>🛠 Tools</h2>
