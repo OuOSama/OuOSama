@@ -28,26 +28,27 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <a href="http://www.github.com/OuOSama">
-    <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="50%" />
-  </a>
-  
-  <!-- Add some spacing between images -->
-  <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <a href="http://www.github.com/OuOSama">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuOSama&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="50%" />
-  </a>
-  
-  <!-- Add some spacing between images -->
-  <br><br>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/OuOSama">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuOSama&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="50%" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <!-- Left Column: GitHub Stats and GitHub Streak Stats -->
+    <td width="50%" align="center">
+      <!-- GitHub Stats -->
+      <a href="http://www.github.com/OuOSama">
+        <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="80%" />
+      </a>
+      <br><br>
+      <!-- GitHub Streak Stats -->
+      <a href="http://www.github.com/OuOSama">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuOSama&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="80%" />
+      </a>
+    </td> 
+    <!-- Right Column: Top Languages -->
+    <td width="50%" align="center">
+      <!-- Top Languages -->
+      <a href="https://github.com/OuOSama">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuOSama&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
