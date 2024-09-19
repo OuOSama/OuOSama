@@ -1,44 +1,37 @@
-
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-
 <!-- GitHub Stats Table -->
-<table align="center" width="70%">
-  <thead>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 80%; border-radius: 20px;" />
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-      <td>
-        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OuOSama&count_private=true&theme=react&border_radius=20" alt="streak stats" style="width: 80%; border-radius: 20px;" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OuOSama&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 100%; border-radius: 20px;" />
-      </td>
-  </tbody>
-</table>
+<div align="center">
+  <table width="60%">
+    <thead>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 100%; border-radius: 20px;" />
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OuOSama&count_private=true&theme=react&border_radius=20" alt="streak stats" style="width: 100%; border-radius: 20px; margin-top: 10px;" />
+          <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OuOSama&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 100%; border-radius: 20px; margin-top: 10px;" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<table align="center" width="70%">
-  <thead>
-    <tr>
-      <td colspan="2">
-       <h2>🛠 Tools</h2>
+
+<!-- Tools Section -->
+<h2>🛠 Tools</h2>
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width=60>
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width=90>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width=50>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="60" alt="Docker"/></a>
 </p>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-      <td>
-       <h2>⚡ Skill</h2>
+<br>
+
+<h2>⚡ Skill</h2>
 <p>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="70" height="70" alt="NextJs" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="70" alt="React" /></a>
@@ -53,6 +46,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="70" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="70"  alt="TypeScript" /></a>
 </p>
+<br>  
 <!-- Socials Section -->
 <h2>🌐 Socials</h2>
 <p>
@@ -99,11 +93,3 @@
     </picture>
   </a>
 </p>
-      </td>
-  </tbody>
-</table>
-
-<!-- Tools Section -->
-<br>
-
-
