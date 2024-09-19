@@ -4,7 +4,7 @@
     <thead>
       <tr>
         <td>
-          <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 80%; border-radius: 20px;" />
+          <img src="https://github-readme-stats-salesp07.vercel.app/api?username=OuOSama&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" style="width: 50%; border-radius: 20px;" />
         </td>
       </tr>
     </thead>
