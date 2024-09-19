@@ -28,10 +28,10 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
   <tr>
     <!-- Left Column: GitHub Stats and GitHub Streak Stats -->
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <!-- GitHub Stats -->
       <a href="http://www.github.com/OuOSama">
         <img src="https://github-readme-stats.vercel.app/api?username=OuOSama&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="OuOSama's GitHub stats" width="80%" />
@@ -43,13 +43,13 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
       </a>
     </td> 
     <!-- Right Column: Top Languages -->
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <!-- Top Languages -->
       <a href="https://github.com/OuOSama">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuOSama&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
       </a>
     </td>
   </tr>
-</table>
+
 
 
