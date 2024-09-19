@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <!-- Left Column: GitHub Stats and GitHub Streak Stats -->
     <td width="50%" align="center">
@@ -51,4 +51,5 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
     </td>
   </tr>
 </table>
+
 
