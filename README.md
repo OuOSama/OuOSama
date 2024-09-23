@@ -54,7 +54,7 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ouo-sama-227841328/" target="_blank">
-     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="linkedin" width="50" height="55" />
+     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="linkedin" width="50" height="50" />
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
