@@ -195,3 +195,7 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E46AE,100:00C2FF&height=120&section=footer" width="100%" />
+</div>
