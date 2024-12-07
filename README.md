@@ -181,7 +181,7 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OuOSama&theme=transparent&utcOffset=7" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OuOSama&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">contact</h3>
 <p align="center">
   <a href="mailto:ouosamacute@gmail.com" target="_blank">
     <img align="center" src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" alt="mail" height="50" width="55" />
