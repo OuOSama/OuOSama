@@ -181,9 +181,6 @@ src="https://img.shields.io/twitter/follow/OuO_Sama?logo=twitter&style=for-the-b
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OuOSama&theme=transparent&utcOffset=7" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OuOSama&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:ouosamacute@gmail.com" target="_blank">
