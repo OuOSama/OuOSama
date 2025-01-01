@@ -2,7 +2,7 @@
     <img width="100%" height="180px" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E46AE,100:00C2FF&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is OuOSama
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is O̅uO̅Sama
 ===============================================================================================================================
 
 Developer
